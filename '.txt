@@ -1,3 +1,0 @@
-<h1>มานะ นุชสวาท</h1>
-    <hr/>
-    <img src="cit.jpg" width="40" height="40">
